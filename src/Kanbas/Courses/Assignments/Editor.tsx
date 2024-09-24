@@ -145,7 +145,6 @@ export default function AssignmentEditor() {
                     <button>Cancel</button>
                     <button>Save</button>
                 </tr>
-                {/* Complete on your own */}
             </table>
         </div>
     );
